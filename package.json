@@ -1,0 +1,22 @@
+{
+  "name": "cypress-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciosoares/cypress-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauriciosoares/cypress-actions/issues"
+  },
+  "homepage": "https://github.com/mauriciosoares/cypress-actions#readme",
+  "devDependencies": {
+    "cypress": "^6.2.0"
+  }
+}
